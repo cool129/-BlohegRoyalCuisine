@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/BlohegRoyalCuisnie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/BlohegRoyalCuisnie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/BlohegRoyalCuisnie?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/cool129/BlohegRoyalCuisnie)
+  ![GitHub stars](https://img.shields.io/github/stars/cool129/BlohegRoyalCuisnie?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/cool129/BlohegRoyalCuisnie?style=social)
   
   <br />
   <br />
@@ -11,7 +11,7 @@
 
   BlohegRoyalCuisnie is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/BlohegRoyalCuisnie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://cool129.github.io/BlohegRoyalCuisnie/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -34,13 +34,13 @@ To run **BlohegRoyalCuisnie** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/BlohegRoyalCuisnie.git
+sudo git clone https://github.com/cool129/BlohegRoyalCuisnie.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/BlohegRoyalCuisnie.git
+git clone https://github.com/cool129/BlohegRoyalCuisnie.git
 ```
 
 ### Contact
