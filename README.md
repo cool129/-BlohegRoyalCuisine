@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/cool129/BlohegRoyalCuisnie)
   ![GitHub stars](https://img.shields.io/github/stars/cool129/BlohegRoyalCuisnie?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/cool129/BlohegRoyalCuisnie?style=social)
-  
+  ![GitHub stars]([https://img.shields.io/github/repo-size/cool129/BlohegRoyalCuisnie](https://www.instagram.com/geo2face?igsh=MTg0M2Riem5tc21uNA%3D%3D&utm_source=qr)
   <br />
   <br />
 
